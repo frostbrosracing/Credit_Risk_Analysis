@@ -31,7 +31,7 @@ Using a dataset from a peer-to-peer lending services company, each of the method
 
 * The balanced accuracy score of the Cluster Centroids Undersampling is 52.93%
 * The precision of the imbalanced classification report for the Cluster Centroids Undersampling is 0.01 for the high-risk class and 1.00 for the low-risk class
-* The recall of the imbalanced classification report for the Cluster Centroids Undersampling is 0.60 for the high-risk class and 0.43 for the low-risk class
+* The recall of the imbalanced classification report for the Cluster Centroids Undersampling is 0.61 for the high-risk class and 0.45 for the low-risk class
 
 ![ClusterCentroidsUndersampling](https://user-images.githubusercontent.com/77071776/124402077-5b307c80-dcf3-11eb-8ac6-d0e9ce45aaaf.PNG)
 
