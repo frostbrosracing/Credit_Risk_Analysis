@@ -1,7 +1,7 @@
 # Credit Risk Analysis using 6 Different Methods
 
 ## Project Overview of the Analysis
-#### The goal of this project was to determine if there is any bias toward favorable reviews from Vine members.  
+#### The goal of this project was to analyze the outcomes of six different methods of evaluating credit risk.
 The Vine Program helps promote customer feedback through reviews of products they are provided by Amazon.  Companies that use Amazon for their distribution pay a fee to Amazon to have their products reviewed.  Amazon provides review information for a wide range of product categories and makes them available through their Amazon Simple Storage Service (Amazon S3).  This analysis was done on a dataset of reviews for the **tool** category.
 
 #### Resources
