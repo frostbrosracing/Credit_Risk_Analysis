@@ -56,4 +56,4 @@ Using a dataset from a peer-to-peer lending services company, each of the method
 
 
 ## Summary
-Because of the significance of the imbalance between the low-risk and high-risk class, the precision in the classification report isn't going to represent the entire story.  IN this case, the recall (or accuracy) score should share more of the story.  
+Because of the significance of the imbalance between the low-risk and high-risk class, the precision in the classification report isn't going to represent the entire story.  In this case, the recall (or accuracy) score should share more of the story.  The Easy Ensemble Classifier is the model that should be used because of the greatest accuracy of any of the models.  In combination with the accuracy score of 92.54% shown by the Easy Ensemble Classifier, the precision and recall scores place this model above the other five.  
