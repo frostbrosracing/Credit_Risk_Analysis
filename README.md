@@ -11,7 +11,7 @@ The Vine Program helps promote customer feedback through reviews of products the
 - Software:  Jupyter Notebook
 - Languages:  Pandas, Python
 - Libraries:  `imbalanced-learn`  `scikit-learn`
-- Database Resources:  Amazon Web Services (AWS), PostGreSQL, pgAdmin4
+- Methods:  `RandomOverSampler`  `SMOTE`  `ClusterCentroids`  `SMOTEENN`  `BalancedRandomForestClassifier`  `EasyEnsembleClassifier`
   
 ## Results of the Analysis
 * The tools dataset contained over 1.7 million reviews.
