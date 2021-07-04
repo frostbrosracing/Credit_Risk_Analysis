@@ -2,7 +2,7 @@
 
 ## Project Overview of the Analysis
 #### The goal of this project was to analyze the outcomes of six different methods of evaluating credit risk.
-The Vine Program helps promote customer feedback through reviews of products they are provided by Amazon.  Companies that use Amazon for their distribution pay a fee to Amazon to have their products reviewed.  Amazon provides review information for a wide range of product categories and makes them available through their Amazon Simple Storage Service (Amazon S3).  This analysis was done on a dataset of reviews for the **tool** category.
+Using a dataset from a peer-to-peer lending services company, each of the methods was used to create training and target variables and then make predictions through the use of the `LogisticRegression` classifier.  The accuracy of each model's performance was then evaluated by the calculation of an accuracy score of those predictions.  Finally, a confusion matrix was generated in which the predictions were assigned based on their accuracy and an imbalanced classification report was printed out.
 
 #### Resources
 - Data Source: <br>
