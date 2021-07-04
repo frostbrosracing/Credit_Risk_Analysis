@@ -6,10 +6,11 @@ The Vine Program helps promote customer feedback through reviews of products the
 
 #### Resources
 - Data Source: <p>
-`https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Tools_v1_00.tsv.gz`
+`Resources/LoanStats_2019Q1.csv`
 
-- Software:  Google Colab, Jupyter Notebook
-- Languages: PySpark, Pandas, Python
+- Software:  Jupyter Notebook
+- Languages:  Pandas, Python
+- Libraries:  `imbalanced-learn`  `scikit-learn`
 - Database Resources:  Amazon Web Services (AWS), PostGreSQL, pgAdmin4
   
 ## Results of the Analysis
