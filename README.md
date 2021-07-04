@@ -11,7 +11,7 @@ The Vine Program helps promote customer feedback through reviews of products the
 - Software:  Jupyter Notebook
 - Languages:  Pandas, Python
 - Libraries:  `imbalanced-learn`  `scikit-learn`
-- Methods:  Oversampling  `RandomOverSampler`  `SMOTE`  
+- Methods: <br>Oversampling  `RandomOverSampler`  `SMOTE`  
             Undersampling  `ClusterCentroids`  
             Over and Undersampling  `SMOTEENN`  
             Bias Reduction  `BalancedRandomForestClassifier`  `EasyEnsembleClassifier`
