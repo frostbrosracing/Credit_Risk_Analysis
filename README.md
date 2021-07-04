@@ -19,7 +19,7 @@ Using a dataset from a peer-to-peer lending services company, each of the method
 ## Results of the Analysis
 * The balanced accuracy score of the Naive Random Oversampling is 65.14%
 * The precision of the imbalanced classification report for the Naive Random Oversampling is 0.01 for the high-risk class and 1.00 for the low-risk class
-* The recall of the imbalanced classification report for the Naive Random Oversampling is 0.64 for the high-risk class and 0.67 for the low-risk class
+* The recall of the imbalanced classification report for the Naive Random Oversampling is 0.67 for the high-risk class and 0.64 for the low-risk class
 
 ![NaiveRandomOversampling](https://user-images.githubusercontent.com/77071776/124400906-8747ff80-dceb-11eb-8a03-f371db85f173.PNG)
 
