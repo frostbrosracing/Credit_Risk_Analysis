@@ -5,7 +5,7 @@
 The Vine Program helps promote customer feedback through reviews of products they are provided by Amazon.  Companies that use Amazon for their distribution pay a fee to Amazon to have their products reviewed.  Amazon provides review information for a wide range of product categories and makes them available through their Amazon Simple Storage Service (Amazon S3).  This analysis was done on a dataset of reviews for the **tool** category.
 
 #### Resources
-- Data Source: <p>
+- Data Source: <br>
 `Resources/LoanStats_2019Q1.csv`
 
 - Software:  Jupyter Notebook
