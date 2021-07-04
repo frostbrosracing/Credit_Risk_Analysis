@@ -18,26 +18,38 @@ Using a dataset from a peer-to-peer lending services company, each of the method
   
 ## Results of the Analysis
 * The balanced accuracy score of the Naive Random Oversampling is 65.14%
+* The precision of the imbalanced classification report for the Naive Random Oversampling is 0.01 for the high-risk class and 1.00 for the low-risk class
+* The recall of the imbalanced classification report for the Naive Random Oversampling is 0.64 for the high-risk class and 0.67 for the low-risk class
 
 ![NaiveRandomOversampling](https://user-images.githubusercontent.com/77071776/124400906-8747ff80-dceb-11eb-8a03-f371db85f173.PNG)
 
 * The balanced accuracy score of the SMOTE Oversampling is 62.67%
+* The precision of the imbalanced classification report for the SMOTE Oversampling is 0.01 for the high-risk class and 1.00 for the low-risk class
+* The recall of the imbalanced classification report for the SMOTE Oversampling is 0.61 for the high-risk class and 0.64 for the low-risk class
 
 ![SmoteOversampling](https://user-images.githubusercontent.com/77071776/124400916-97f87580-dceb-11eb-8188-c168a32650c1.PNG)
 
 * The balanced accuracy score of the Cluster Centroids Undersampling is 51.61%
+* The precision of the imbalanced classification report for the Cluster Centroids Undersampling is 0.01 for the high-risk class and 1.00 for the low-risk class
+* The recall of the imbalanced classification report for the Cluster Centroids Undersampling is 0.60 for the high-risk class and 0.43 for the low-risk class
 
-![ClusterCentroidsUndersampling](https://user-images.githubusercontent.com/77071776/124400921-a8a8eb80-dceb-11eb-8a86-8930bd1de49d.PNG)
+![ClusterCentroidsUndersampling](https://user-images.githubusercontent.com/77071776/124402077-5b307c80-dcf3-11eb-8ac6-d0e9ce45aaaf.PNG)
 
 * The balanced accuracy score of the SMOTEENN (Over and Under) Sampling is 62.48%
+* The precision of the imbalanced classification report for the SMOTEENN (Over and Under) Sampling is 0.01 for the high-risk class and 1.00 for the low-risk class
+* The recall of the imbalanced classification report for the SMOTEENN (Over and Under) Sampling is 0.71 for the high-risk class and 0.54 for the low-risk class
 
 ![SMOTEENN](https://user-images.githubusercontent.com/77071776/124400926-b8283480-dceb-11eb-8890-1ff3949c8ccf.PNG)
 
 * The balanced accuracy score of the Balanced Random Forest Classifier is 78.78%
+* The precision of the imbalanced classification report for the Balanced Random Forest Classifier is 0.04 for the high-risk class and 1.00 for the low-risk class
+* The recall of the imbalanced classification report for the Balanced Random Forest Classifier is 0.67 for the high-risk class and 0.91 for the low-risk class
 
 ![BalancedRandomForestClassifier](https://user-images.githubusercontent.com/77071776/124400947-dc841100-dceb-11eb-83e0-3decd43cd269.PNG)
 
 * The balanced accuracy score of the Easy Ensemble Classifier is 92.54%
+* The precision of the imbalanced classification report for the Easy Ensemble Classifier is 0.07 for the high-risk class and 1.00 for the low-risk class
+* The recall of the imbalanced classification report for the Easy Ensemble Classifier is 0.91 for the high-risk class and 0.94 for the low-risk class
 
 ![EasyEnsembleClassifier](https://user-images.githubusercontent.com/77071776/124400951-e279f200-dceb-11eb-8ece-d29a3ec4695f.PNG)
 
